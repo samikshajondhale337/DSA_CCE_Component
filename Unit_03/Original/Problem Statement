@@ -1,1 +1,14 @@
 
+Hospital Patient Management System using Linked List
+
+Develop a simple C++ Hospital Patient Management System using a singly linked list. The system should allow the user to:
+
+Add a new patient with Patient ID and Name.
+
+Display all patient records.
+
+Search for a patient using Patient ID.
+
+Exit the system.
+
+The patient records are stored using nodes of a linked list, where each node contains the patient ID, patient name, and a pointer to the next patient.
